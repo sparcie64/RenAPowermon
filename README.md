@@ -1,4 +1,4 @@
-# Stroom-monitoring t.b.v. het Research and Advice-project van Jeroen Brons
+# Stroom-monitoring t.b.v. het Research and Advice-project van Amy Brons
 ## benodigdheden
 * Raspberry PI 3 of 4 (model B)
 * Z-Wave ontvanger
